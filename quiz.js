@@ -1,3 +1,4 @@
+// Declaring the function
 function checkAnswer() {
   // Identifying the Correct Answer:
   // Declaring a variable and assigning a value
